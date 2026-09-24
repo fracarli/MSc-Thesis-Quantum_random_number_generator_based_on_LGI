@@ -1,6 +1,6 @@
 # Quantum Random Number Generators and Implementations based on Leggett–Garg Inequalities
 
-This repository contains the code, simulations, and documentation for the Master's thesis in Physics titled **"Quantum Random Number Generators and implementations based on Leggett–Garg inequalities"**, defended at the University of Genoa (School of M.F.N. Sciences, Master's Degree in Physics).
+This repository contains the Master's thesis in Physics titled **"Quantum Random Number Generators and implementations based on Leggett–Garg inequalities"**, defended at the University of Genoa (School of M.F.N. Sciences, Master's Degree in Physics).
 
 ## 📋 Project Overview
 Quantum Random Number Generators (QRNGs) are essential tools for cryptography, numerical simulations, and metrology. Traditionally, the certification of randomness in these devices relies on the violation of Bell's inequalities. However, this approach requires complex experimental conditions, such as spatial entanglement and the strict spatial separation of detectors.
